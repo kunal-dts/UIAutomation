@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/README.md" />
+              <option name="originalContent" value="# UIAutomation&#10;This one is created to store UI Automation projects&#10;&#10;" />
+              <option name="updatedContent" value="# UIAutomation&#10;This one is created to store UI Automation projects&#10;&#10;A collection of projects and scripts for automating user interface testing.  &#10;Use this repository to organize, develop, and maintain UI automation solutions for various applications.&#10;&#10;## Introduction&#10;UIAutomation is a repository dedicated to storing and managing projects related to user interface automation. It is designed to help automate repetitive UI tasks, perform regression testing, and ensure the quality of software applications through automated scripts.&#10;&#10;## Features&#10;- Automated UI testing for web and desktop applications&#10;- Support for multiple automation frameworks (e.g., Selenium, Appium)&#10;- Modular and reusable test scripts&#10;- Easy integration with CI/CD pipelines&#10;- Detailed test reports and logging&#10;&#10;## Getting Started&#10;&#10;### Prerequisites&#10;- Java (JDK 8 or higher)&#10;- Maven or Gradle (for Java projects)&#10;- Node.js and npm (for JavaScript-based automation)&#10;- Supported browsers (e.g., Chrome, Firefox)&#10;&#10;### Installation&#10;1. Clone the repository:&#10;   ```&#10;   git clone https://github.com/yourusername/UIAutomation.git&#10;   ```&#10;2. Navigate to the project directory:&#10;   ```&#10;   cd UIAutomation&#10;   ```&#10;3. Install dependencies as required by your chosen framework.&#10;&#10;### Running Tests&#10;- For Java-based projects:&#10;  ```&#10;  mvn test&#10;  ```&#10;- For JavaScript-based projects:&#10;  ```&#10;  npm install&#10;  npm test&#10;  ```&#10;&#10;## Project Structure&#10;- `/src` - Source code for automation scripts&#10;- `/tests` - Test cases and suites&#10;- `/reports` - Generated test reports&#10;- `/docs` - Documentation and guides&#10;&#10;## Contributing&#10;Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.&#10;&#10;## License&#10;This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details." />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
